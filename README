@@ -1,0 +1,11 @@
+SnarfSnare
+
+Detect airsnarf (http://airsnarf.shmoo.com/) and send warning message.
+
+Checks:
+
+1. Sudden changes in signal strength
+2. Change in AP MAC address 
+
+
+
